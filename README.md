@@ -13,7 +13,7 @@
     textField.limitNumber = 11; 
     [self.view addSubview:textField];
 
-!img[]()
+!img[](https://github.com/zengweizhen/HXTextField/blob/master/HXTextField/readme.gif)
 
 @interface HXTextField : UIView
 
