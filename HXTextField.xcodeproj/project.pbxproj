@@ -17,7 +17,6 @@
 		B4F6A5C31F4C062800EF442B /* HXTextFieldUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B4F6A5C21F4C062800EF442B /* HXTextFieldUITests.m */; };
 		B4F6A5D31F4C067A00EF442B /* HXTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = B4F6A5D21F4C067A00EF442B /* HXTextField.m */; };
 		B4F6A5DA1F4C14EB00EF442B /* NSString+HXCategory.m in Sources */ = {isa = PBXBuildFile; fileRef = B4F6A5D91F4C14EB00EF442B /* NSString+HXCategory.m */; };
-		B4F6A5DC1F4C267C00EF442B /* readme.gif in Resources */ = {isa = PBXBuildFile; fileRef = B4F6A5DB1F4C267C00EF442B /* readme.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,7 +57,6 @@
 		B4F6A5D21F4C067A00EF442B /* HXTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HXTextField.m; sourceTree = "<group>"; };
 		B4F6A5D81F4C14EB00EF442B /* NSString+HXCategory.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSString+HXCategory.h"; sourceTree = "<group>"; };
 		B4F6A5D91F4C14EB00EF442B /* NSString+HXCategory.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSString+HXCategory.m"; sourceTree = "<group>"; };
-		B4F6A5DB1F4C267C00EF442B /* readme.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = readme.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,7 +125,6 @@
 		B4F6A59D1F4C062800EF442B /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				B4F6A5DB1F4C267C00EF442B /* readme.gif */,
 				B4F6A59E1F4C062800EF442B /* main.m */,
 			);
 			name = "Supporting Files";
@@ -278,7 +275,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B4F6A5DC1F4C267C00EF442B /* readme.gif in Resources */,
 				B4F6A5AD1F4C062800EF442B /* LaunchScreen.storyboard in Resources */,
 				B4F6A5AA1F4C062800EF442B /* Assets.xcassets in Resources */,
 				B4F6A5A81F4C062800EF442B /* Main.storyboard in Resources */,
