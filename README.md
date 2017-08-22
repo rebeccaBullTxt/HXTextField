@@ -12,8 +12,8 @@
     ///输入的数字不能大于11位
     textField.limitNumber = 11; 
     [self.view addSubview:textField];
+![img](https://github.com/zengweizhen/HXTextField/blob/master/HXTextField/readme.gif)
 
-!img[](https://github.com/zengweizhen/HXTextField/blob/master/HXTextField/readme.gif)
 
 @interface HXTextField : UIView
 
